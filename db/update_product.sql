@@ -1,0 +1,1 @@
+UPDATE Products SET Description = $2 WHERE productid = $1;
